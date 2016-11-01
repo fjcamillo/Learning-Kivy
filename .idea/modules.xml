@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Kivy-Training/.idea/Kivy-Training.iml" filepath="$PROJECT_DIR$/../Kivy-Training/.idea/Kivy-Training.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Learning-Kivy.iml" filepath="$PROJECT_DIR$/.idea/Learning-Kivy.iml" />
     </modules>
   </component>
